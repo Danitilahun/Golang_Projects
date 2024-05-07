@@ -25,3 +25,6 @@
 [submodule "OTPVerification-GO"]
 	path = OTPVerification-GO
 	url = https://github.com/Danitilahun/OTPVerification-GO.git
+[submodule "RestAPI---GoAndMongo"]
+	path = RestAPI---GoAndMongo
+	url = https://github.com/Danitilahun/RestAPI---GoAndMongo.git

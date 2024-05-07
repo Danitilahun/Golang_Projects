@@ -19,3 +19,6 @@
 [submodule "gRPC_Calculator"]
 	path = gRPC_Calculator
 	url = https://github.com/Danitilahun/gRPC_Calculator.git
+[submodule "gRPC-ECHO"]
+	path = gRPC-ECHO
+	url = https://github.com/Danitilahun/gRPC-ECHO.git

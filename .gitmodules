@@ -16,3 +16,6 @@
 [submodule "LoadBalancer"]
 	path = LoadBalancer
 	url = https://github.com/Danitilahun/LoadBalancer.git
+[submodule "gRPC_Calculator"]
+	path = gRPC_Calculator
+	url = https://github.com/Danitilahun/gRPC_Calculator.git

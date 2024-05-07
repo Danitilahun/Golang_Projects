@@ -22,3 +22,6 @@
 [submodule "gRPC-ECHO"]
 	path = gRPC-ECHO
 	url = https://github.com/Danitilahun/gRPC-ECHO.git
+[submodule "OTPVerification-GO"]
+	path = OTPVerification-GO
+	url = https://github.com/Danitilahun/OTPVerification-GO.git

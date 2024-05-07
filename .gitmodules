@@ -10,3 +10,6 @@
 [submodule "GO_JWT_Authentication"]
 	path = GO_JWT_Authentication
 	url = https://github.com/Danitilahun/GO_JWT_Authentication.git
+[submodule "Go_GraphQL"]
+	path = Go_GraphQL
+	url = https://github.com/Danitilahun/Go_GraphQL.git

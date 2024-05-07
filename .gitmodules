@@ -13,3 +13,6 @@
 [submodule "Go_GraphQL"]
 	path = Go_GraphQL
 	url = https://github.com/Danitilahun/Go_GraphQL.git
+[submodule "LoadBalancer"]
+	path = LoadBalancer
+	url = https://github.com/Danitilahun/LoadBalancer.git

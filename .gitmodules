@@ -4,3 +4,6 @@
 [submodule "Proxy_Server"]
 	path = Proxy_Server
 	url = https://github.com/Danitilahun/Proxy_Server.git
+[submodule "Go_Concurrency"]
+	path = Go_Concurrency
+	url = https://github.com/Danitilahun/Go_Concurrency.git

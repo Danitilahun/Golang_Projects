@@ -7,3 +7,6 @@
 [submodule "Go_Concurrency"]
 	path = Go_Concurrency
 	url = https://github.com/Danitilahun/Go_Concurrency.git
+[submodule "GO_JWT_Authentication"]
+	path = GO_JWT_Authentication
+	url = https://github.com/Danitilahun/GO_JWT_Authentication.git
